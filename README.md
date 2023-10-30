@@ -4,7 +4,7 @@
 # Extension:
 Nunit3 Test Adaptor, Specflow for Visual Studio 19
 
-# AJ-Bell-interview-UI-automated-test.
+# AJ-Bell-UI-automated-test.
 AJ Bell Website UI automation test.
 
 # Language:
